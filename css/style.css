@@ -1,0 +1,24 @@
+body {
+  padding-top: 50px;
+}
+
+section.carousel {
+	margin: 10px 0 20px 0;
+	padding: 10px 0 30px 0;
+}
+
+section.tabs {
+	margin: 20px 0 20px 0;
+	padding: 30px 0 30px 0;
+}
+
+.carousel img {
+    min-width: 100%;
+}
+
+.img-title {
+	text-align: center;
+	font-size: 16px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
